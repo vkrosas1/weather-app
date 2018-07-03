@@ -1,0 +1,68 @@
+body {
+    background-image: url("https://www.thetimes.co.uk/travel/s3/growthtravel-prod/uploads/2016/10/AlamyLisbon_SeanPavone.jpg")
+}
+
+
+h1 {
+    color: white;
+    font-size: 4.5em;
+    text-align: center;
+    font-family: 'Spirax', cursive;
+}
+
+h2 { 
+    color: white; 
+    font-family: 'Montserrat', sans-serif;
+    font-style: oblique;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+p {
+    color: white; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    text-align: center;
+}
+
+
+.main-app {
+    text-align: center;
+}
+
+#app { 
+    background-color: rgb(199, 221, 244);
+    opacity: .95;
+}
+
+.day { 
+    position: center; 
+    display: inline-block; 
+    text-align: center;
+    
+    background-color:rgb(199, 221, 244);
+    width: 17%;
+    height: 2.5em; 
+    border: 10px black;
+    padding: 5px;
+    margin: 10px;
+    opacity: .95;
+
+}
+
+.icons{ 
+    position: center; 
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+
+
+
+figure {
+	margin: 5em auto;
+	width: 350px;
+	height: 150px;
+}
